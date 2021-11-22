@@ -109,11 +109,11 @@ the [latest YOLOv5 release](https://github.com/ultralytics/yolov5/releases) and 
 
 ```bash
 $ python detect.py --source 0  # webcam
-                            file.jpg  # image
-                            file.mp4  # video
+                            img.jpg  # image
+                            vid.mp4  # video
                             path/  # directory
                             path/*.jpg  # glob
-                            'https://youtu.be/NUsoVlDFqZg'  # YouTube
+                            'https://youtu.be/Zgi9g1ksQHc'  # YouTube
                             'rtsp://example.com/media.mp4'  # RTSP, RTMP, HTTP stream
 ```
 
@@ -193,7 +193,7 @@ Get started in seconds with our verified environments. Click each icon below for
 
 |Weights and Biases|Roboflow ⭐ NEW|
 |:-:|:-:|
-|Automatically track and visualize all your YOLOv5 training runs in the cloud with [Weights & Biases](https://wandb.ai/site?utm_campaign=repo_yolo_readme)|Label and automatically export your custom datasets directly to YOLOv5 for training with [Roboflow](https://roboflow.com/?ref=ultralytics) |
+|Automatically track and visualize all your YOLOv5 training runs in the cloud with [Weights & Biases](https://wandb.ai/site?utm_campaign=repo_yolo_readme)|Label and export your custom datasets directly to YOLOv5 for training with [Roboflow](https://roboflow.com/?ref=ultralytics) |
 
 
 <!-- ## <div align="center">Compete and Win</div>
